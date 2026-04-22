@@ -1,1 +1,3 @@
-# Projeto-de-Vida
+<script src="main.js"></script>
+const botoes = document.querySelectorAll(".botao");
+console.log(botoes);
